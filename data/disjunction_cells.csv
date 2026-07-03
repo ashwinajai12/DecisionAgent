@@ -1,0 +1,7 @@
+study,paradigm,condition,action,count,N_cond,source,design,notes
+TEMPLATE_synth_gamble,two_stage_gamble,win,gamble,69,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,replace with OSF gu58m cells
+TEMPLATE_synth_gamble,two_stage_gamble,win,not,31,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,
+TEMPLATE_synth_gamble,two_stage_gamble,loss,gamble,59,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,
+TEMPLATE_synth_gamble,two_stage_gamble,loss,not,41,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,
+TEMPLATE_synth_gamble,two_stage_gamble,unknown,gamble,36,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,disjunctive arm
+TEMPLATE_synth_gamble,two_stage_gamble,unknown,not,64,100,SYNTHETIC_TEMPLATE_DO_NOT_FIT,between,

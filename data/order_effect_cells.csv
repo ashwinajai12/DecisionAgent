@@ -1,0 +1,9 @@
+survey_id,stimulus_id,qA_text,qB_text,order,A_ans,B_ans,count,N_arm,source,date,notes
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,AB,y,y,300,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,replace with SI/Pew-derived cells
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,AB,y,n,80,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,AB,n,y,50,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,AB,n,n,70,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,BA,y,y,290,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,BA arm: satisfy asked first
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,BA,y,n,60,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,BA,n,y,90,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
+TEMPLATE_synth_01,approve_x_satisfy,Do you approve of the way the President is handling his job?,Are you satisfied with the way things are going in this country?,BA,n,n,60,500,SYNTHETIC_TEMPLATE_DO_NOT_FIT,,
